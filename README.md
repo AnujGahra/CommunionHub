@@ -47,9 +47,3 @@ Follow these steps to run the project locally:
 
 ## 🤝 Contribution
 Feel free to contribute by submitting **issues, feature requests, or pull requests** to improve the project.
-
-## 📩 Contact
-For any inquiries, suggestions, or support, reach out via the **Contact Page** on the platform or email **[your email]**.
-
-## 🏆 Acknowledgment
-Special thanks to **everyone contributing** to making Communion Hub a platform for uniting people through events! 🎉
