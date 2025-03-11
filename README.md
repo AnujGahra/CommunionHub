@@ -20,6 +20,10 @@ Communion Hub is a **React-based web application** designed to bring people toge
 - **Framer Motion** - Animations for a dynamic user experience
 - **Tailwind CSS** - Styling for a modern and responsive UI
 
+## 📸 Preview
+
+![CommunionHub](CommunionHub.png)
+
 ## 🔧 Installation & Setup
 Follow these steps to run the project locally:
 
